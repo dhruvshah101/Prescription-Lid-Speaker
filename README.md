@@ -1,4 +1,4 @@
-# Talking Prescription Lid 💊🔊
+# Prescription Lid Speaker 💊🔊
 
 **An improved prescription lid equipped with a speaker to read medication information aloud at the press of a button, making it more accessible to older adults and visually impaired users who struggle to read standard prescription labels.**
 
@@ -124,6 +124,12 @@ As part of the team, I conducted academic and market research to identify and ju
 - **Design the enclosure around audio output.** Small openings above the speaker helped sound travel out of the housing.
 - **Allow time for soldering and rework.** Broken connections and soldering mistakes took time to diagnose and repair.
 - **Keep the interface simple.** A single button supports both track selection and stopping playback without requiring a screen or app.
+
+
+## Engineering Portfolio
+
+Further documentation, pictures, information and coursework from my engineering courses can be accessed [here] (https://sites.google.com/view/dhruvshah/capstone?authuser=0)
+
 
 ## Acknowledgments
 
