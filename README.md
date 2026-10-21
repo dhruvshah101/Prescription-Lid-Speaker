@@ -44,17 +44,8 @@ The prototype uses a **Seeed Studio XIAO RP2040**, a **DFPlayer Mini**, and an *
 | Short press and release | Play the next track; wrap back to the first after the last |
 | Long press (2 seconds) | Stop playback |
 
-| LED color | Meaning |
-| --- | --- |
-| ⚪ White | Initializing the DFPlayer |
-| 🟢 Green, three blinks | Startup sequence complete |
-| 🔵 / 🟢 Alternating | Playback active |
-| 🟣 Purple, briefly | Playback stopped by a long press |
-| 🔴 Red, continuous blinking | DFPlayer initialization failed; check wiring or the SD card |
-| 🔴 Red, briefly | DFPlayer reported an error during operation |
-| Off | Idle, playback finished, or stop/error indication completed |
 
-## Bill of Materials
+## Materials Utilized
 
 | Component | Purpose |
 | --- | --- |
@@ -98,15 +89,14 @@ The supplied code plays existing recordings; it does not scan labels, generate s
 Suggested layout for the project files:
 
 ```text
-talking-prescription-lid/
+Prescription-Lid-Speaker/
 ├── README.md
-├── firmware/
-│   └── talking_prescription_lid/
-│       └── talking_prescription_lid.ino
-├── docs/
-│   └── project-overview.md
-└── media/
-    └── build photos, CAD screenshots, and demo clips
+├── code/
+│   └── Prescription-Lid-Speaker/
+│       └── arduino_code.ino
+└── docs/
+│   └── 
+
 ```
 
 ## Engineering Process
@@ -123,7 +113,7 @@ Our team developed the prototype through the PLTW engineering design process:
 
 ### My Contribution
 
-As part of the team, I conducted a consumer interview with an adult day care provider to understand the challenges older adults face when managing medications. The interview informed our understanding of small text, language barriers, similar-looking bottles, and the importance of an easy-to-use interface.
+As part of the team, I conducted academic and market research to identify and justify the problem's needs. For prototype development, I researched viable components, designed, and built a circuit utilizing the parts mentioned above. 
 
 ## Lessons Learned
 
@@ -135,7 +125,7 @@ As part of the team, I conducted a consumer interview with an adult day care pro
 
 ## Acknowledgments
 
-Thanks to **Mr. Hamrani** for materials and 3D-printing support, and to **Ms. Layachi** and the individuals who helped the team with circuit connections and prototype construction. Thank you to the interview participants and survey respondents who helped shape our understanding of the problem.
+Thanks to **Mr. Hamrani** for materials and 3D-printing support, and to **Ms. Layachi** for circuitry support and the peers who helped the team with circuit connections and prototype construction. Thank you to the interview participants and survey respondents who helped shape our understanding of the problem.
 
 ---
 
