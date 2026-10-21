@@ -95,7 +95,9 @@ Prescription-Lid-Speaker/
 │   └── Prescription-Lid-Speaker/
 │       └── arduino_code.ino
 └── docs/
-│   └── 
+│   └── Research_Documentation.pdf
+    └── Prototype Development Documentation.pdf
+
 
 ```
 
