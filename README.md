@@ -128,7 +128,7 @@ As part of the team, I conducted academic and market research to identify and ju
 
 ## Engineering Portfolio
 
-Further documentation, pictures, information and coursework from my engineering courses can be accessed [here] (https://sites.google.com/view/dhruvshah/capstone?authuser=0)
+Further documentation, pictures, information and coursework from my engineering courses can be accessed [here](https://sites.google.com/view/dhruvshah/capstone?authuser=0)
 
 
 ## Acknowledgments
